@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UIAddon>
+	<Name>UseCoinsAmalgam</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+		<Item href="UseCoinsAmalgam.luac"/>
+	</ScriptFileRefs>
+	<localizedNameFileRef href="name.txt"/>
+	<localizedDescFileRef href="desc.txt"/>
+</UIAddon>
